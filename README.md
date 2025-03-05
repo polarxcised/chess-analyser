@@ -6,7 +6,6 @@ A modern, sleek web application to explore Chess.com profiles with a cool typewr
 
 - [Features](#features)
 - [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -28,9 +27,6 @@ A modern, sleek web application to explore Chess.com profiles with a cool typewr
 
 Check out the live demo at: [Chess.com Profile Explorer Demo](https://chesscom.example.com)
 
-## Screenshots
-
-![Screenshot of Chess.com Profile Explorer](https://i.postimg.cc/zfDks9PY/1f3a22dd1984372494809901147e66ba.png)
 
 ## Technologies Used
 
