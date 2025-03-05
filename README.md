@@ -25,7 +25,7 @@ A modern, sleek web application to explore Chess.com profiles with a cool typewr
 
 ## Live Demo
 
-Check out the live demo at: [Chess.com Profile Explorer Demo](https://chesscom.example.com)
+Check out the live demo at: [Chess.com Profile Explorer Demo](https://chess.itsansh.xyz)
 
 
 ## Technologies Used
