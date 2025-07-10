@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-- **Developed by:** [polarxcised](https://github.com/Anshkabra2012)
+- **Developed by:** [polarxcised](https://github.com/polarxcised)
 - **External Libraries:**
   - [Particles.js](https://vincentgarreau.com/particles.js/)
   - [AOS](https://michalsnik.github.io/aos/)
